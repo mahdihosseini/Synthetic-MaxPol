@@ -22,10 +22,10 @@ params.moment_evaluation = [72, 8];
 
 %% NR-FQA Score on original image
 input_data.data = original_image;
-score_original = MaxPol(input_data, params);
+score_original = Synthetic_MaxPol(input_data, params);
 fprintf(['NR-FQA score original image = ', num2str(score_original), '\n']);
 
 %% NR-FQA Score on original image
 input_data.data = blurry_image;
-score_blurry = MaxPol(input_data, params);
+score_blurry = Synthetic_MaxPol(input_data, params);
 fprintf(['NR-FQA score blurry image = ', num2str(score_blurry), '\n']);
