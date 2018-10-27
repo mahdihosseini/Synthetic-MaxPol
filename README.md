@@ -30,11 +30,11 @@ http://www.dsp.utoronto.ca/~mhosseini/
 ----------------------------------------------------------------
 Citation:
 
-@inproceedings{hosseini2018image,
-  title={Image sharpness metric based on maxpol convolution kernels},
-  author={Hosseini, Mahdi S and Plataniotis, Konstantinos N},
-  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
-  pages={296--300},
-  year={2018},
-  organization={IEEE}
+@inproceedings{hosseini2018image,  
+  title={Image sharpness metric based on maxpol convolution kernels},  
+  author={Hosseini, Mahdi S and Plataniotis, Konstantinos N},  
+  booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},  
+  pages={296--300},  
+  year={2018},  
+  organization={IEEE}  
 }
