@@ -1,5 +1,5 @@
 # Synthetic-MaxPol
-A MATLAB Package for No-Reference Synthetic Image Blur Assessment
+A MATLAB Package for No-Reference (NR) Focus Quality Assessment (FQA) of Synthetically Blurred Images
 
 ----------------------------------------------------------------
 General purpose:  
