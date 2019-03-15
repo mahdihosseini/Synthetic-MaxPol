@@ -3,7 +3,7 @@ A MATLAB Package for No-Reference (NR) Image Sharpness Assessment (ISA) of Synth
 
 ----------------------------------------------------------------
 General purpose:  
--	You can use this MATLAB package to score no-reference (NR) focus (aka sharpness) quality assessment (FQA) of synthetically blurred images 
+-	You can use this MATLAB package to score no-reference (NR) image sharpness assessment (ISA) of synthetically blurred images 
 ----------------------------------------------------------------
 Requirements:
 - MATLAB R2015b
