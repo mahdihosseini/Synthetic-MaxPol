@@ -16,7 +16,7 @@ for n_ord = 1: numel(d)
     
     %%
     v = [abs(i_BP_v(:)); abs(i_BP_h(:))];
-    [pdf, x] = hist(v, 150); % 250 for BID, 150 for CID
+    [pdf, x] = histcounts(v, 150); % 250 for BID, 150 for CID
     pdf = normal(pdf);
     %
     cdf = cumsum(pdf)/sum(pdf);
