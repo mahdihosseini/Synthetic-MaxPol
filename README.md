@@ -21,6 +21,9 @@ Utility functions:
 Paper title: [Image Sharpness Metric Based on Maxpol Convolution Kernels]  
 Paper Download: [https://ieeexplore.ieee.org/abstract/document/8451488]  
 
+## Related Publication:
+*Hosseini, Mahdi S., and Konstantinos N. Plataniotis. "[Image Sharpness Metric Based on Maxpol Convolution Kernels](https://ieeexplore.ieee.org/abstract/document/8451488)." In 2018 25th IEEE International Conference on Image Processing (ICIP).*
+
 ----------------------------------------------------------------
 Author:  
 Mahdi S. Hosseini  
